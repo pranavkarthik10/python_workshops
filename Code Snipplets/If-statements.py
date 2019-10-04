@@ -6,7 +6,7 @@ b = 0
 x = 1
 y = 10
 
-#remember to use double = signs in your f statements
+#remember to use double = signs in your if statements
 if a == b: # : symbol is used to close the statement
   print("a is equal to b") # indented code runs when the if stetment is true
 
