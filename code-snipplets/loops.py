@@ -5,7 +5,7 @@ b = 0
 
 # runs only when its conditions are met
 while a == b:
-  print(" a eqal b")
+  print("a equal b")
 
 # can also be used to run forever
 while True:
