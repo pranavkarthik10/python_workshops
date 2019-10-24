@@ -8,3 +8,8 @@ You might want to use the Github student pack to get student perks for Github an
 ### Lessons:
 1. [Lesson 1](lesson-1/README.md)
 2. [Lesson 2](lesson-2/README.md)
+3. [Lesson 3](lesson-3/README.md)
+4. [Lesson 4](lesson-4/README.md)
+
+### Authors
+Written by [Pranav Karthik](https://github.com/pranavkarthik10), [Andrei Sva](https://github.com/AndreiSva), and [Liam Ilan](https://github.com/liam-ilan)
