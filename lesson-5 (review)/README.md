@@ -16,14 +16,27 @@ input:
 
 6
 Andrei cheese
+
 Liam pineapple
+
 Pranav peanut
+
 kevin steak
+
 Richard chicken
 
+
+
+
+
 output:
+
 Andrei NO
+
 Liam YES
+
 Pranav NO
+
 Kevin YES
+
 Richard YES
