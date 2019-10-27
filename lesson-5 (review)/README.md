@@ -14,7 +14,7 @@ N lines, name of student followed by a whitespace and by YES or NO, depending if
 
 input:
 
-6
+'''6
 Andrei cheese
 
 Liam pineapple
@@ -24,14 +24,12 @@ Pranav peanut
 kevin steak
 
 Richard chicken
-
-
-
+'''
 
 
 output:
 
-Andrei NO
+'''Andrei NO
 
 Liam YES
 
@@ -40,3 +38,4 @@ Pranav NO
 Kevin YES
 
 Richard YES
+'''
