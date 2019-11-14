@@ -46,7 +46,12 @@ Print(Shopping_list[0])
 ```
 
 # Project
-Now that we have all the tools available, we can create out first major project
+Now that we have all the tools available, we can create out first major project: The word reverser. Scroll down if you are having difficulties.
+
+
+
+
+
 
 ```
 
