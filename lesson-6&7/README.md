@@ -19,7 +19,9 @@ Output:
 ### index
 We can access a particular character in a string using this syntax **variable[index]**. Variable obviously being the variable and index the position of the letter in the string.
 (NOTE: the first letter in a string is indexed as 0)
+
 Hello
+
 01234
 
 ## letter replacer example
