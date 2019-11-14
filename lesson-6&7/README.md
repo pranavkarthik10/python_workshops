@@ -6,6 +6,7 @@ As we already know strings in programming are words (ie: “Hello”, “Goodbye
 
 ### len()
 A **VERY** important part of string manipulation is the len() method. len() returns the length of a string. For example, len(“Hello”) would return five.
+
 Code:
 ```
 Print(len(“hello”))
