@@ -1,5 +1,5 @@
 # lesson 6/7
-In this week’s python workshop, we learned two very important principles: list and string manipulation. these are possibly the most important principles in contest programming (and therefore the Canadian computing competition).
+In this week’s python workshop, we learned two very important principles: list and string manipulation. these are possibly **the most important** principles in contest programming (and therefore the Canadian computing competition).
 
 # What is string manipulation?
 As we already know strings in programming are words (ie: “Hello”, “Goodbye”). We can use string manipulation to edit strings during runtime. For example, we can turn every “A” character in someone’s name into a “B”. Therefore turning “Andrei” into “Bndrei”. There are many parts to string manipulation, here are the most important.
@@ -76,3 +76,6 @@ print(ReverseString(s))
 
     
 ```
+
+> lesson paper by Andrei
+
