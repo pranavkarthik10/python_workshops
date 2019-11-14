@@ -1,4 +1,4 @@
-# lesson 6
+# lesson 6/7
 In this week’s python workshop, we learned two very important principles: list and string manipulation. these are possibly the most important principles in contest programming (and therefore the Canadian computing competition).
 
 # What is string manipulation?
