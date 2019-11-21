@@ -1,0 +1,26 @@
+# number guessing game
+
+import random
+
+answer = random.randint(0, 100)
+running = True
+
+while running:
+
+  try:
+    guess = int(input("Enter your guess: "))
+    
+
+    if guess == answer:
+
+      print("You got the answer right!")
+      running = False
+    elif guess > answer:
+
+      print("The answer is too high")
+    elif guess < answer:
+
+      print("The answer is too low")
+  except:
+
+    print("You have to enter a number!")
